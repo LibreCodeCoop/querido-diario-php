@@ -1,4 +1,4 @@
-# Querido diáro PHP
+# Querido diário PHP
 
 Coletor de dados de licitações.
 
